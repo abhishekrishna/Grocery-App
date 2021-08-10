@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178846324467",
+    "firebase_url": "https://day-to-day-grocery-default-rtdb.firebaseio.com",
+    "project_id": "day-to-day-grocery",
+    "storage_bucket": "day-to-day-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178846324467:android:8ad3edea7be45be69f0986",
+        "android_client_info": {
+          "package_name": "daytodaygrocery.krashit.ecomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178846324467-9eht9vj38fq5899rnh3i3kutf65pcrtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daytodaygrocery.krashit.ecomm",
+            "certificate_hash": "18df75f98b558fdcd5c4b9a0b4736c78fc82b073"
+          }
+        },
+        {
+          "client_id": "178846324467-k3q8lkftb4psgmt6v9ahe7otkddqh6bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUP7UjtBaswNKrBDYtgx_KxW3qBjmUpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178846324467-k3q8lkftb4psgmt6v9ahe7otkddqh6bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

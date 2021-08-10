@@ -1,0 +1,22 @@
+
+-- DB Schema Design -- Categories Types 
+-- Table FIelds (Fields) -- Name, phNumber, address, items ?? ( Category )
+
+
+
+
+-- Fetch From Firebase (In Prog)
+
+
+
+
+-- Flavoring Project
+-- Structuring Project Structure and Functions
+
+
+
+ New Screen For Categories Details (Merge Muskan's Implementation)
+
+Our Featured Categories
+-- Add to Cart
+-- Chekout with Order ID
